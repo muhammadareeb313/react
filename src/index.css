@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.upper{
+  text-align: center;
+}.HoursPart ul li{
+display: inline;padding-left: 25px;
+}.HoursPart{
+margin: 10px auto;border: 1px solid black;
+width: 350px;
+}
+.liFirs{
+  padding-left: 20px !important;
+}
